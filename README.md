@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @LordKmet (my real name is Anže)
-- 👀 I’m interested in programming
-- 🌱 I’m currently taking Harvard's CS50 course
-- 
+Hello world
+
 - 📫 You can reach me on my email lordkmet@gmail.com
 
 <!---
